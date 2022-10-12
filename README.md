@@ -8,7 +8,7 @@ Esta aplicação foi desenvolvida durante o IginteLab da @Rokectseat.
 
 Criar a base visual do Design System no Figma, definir quais tokens utilizaremos e os componentes que farão parte da biblioteca em React.
 
-Mão na massa! Na segunda aula iremos exportar os tokens e componentes do Figma para o código criando a base do projeto em React e a documentação utilizando Storybook
+Exportar os tokens e componentes do Figma para o código criando a base do projeto em React e a documentação utilizando Storybook
 
 ## Requerimentos
 
@@ -25,8 +25,6 @@ Mão na massa! Na segunda aula iremos exportar os tokens e componentes do Figma 
 - [Storybook](https://storybook.js.org/)
 - [TypeScript](https://www.typescriptlang.org)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Instalação
 
